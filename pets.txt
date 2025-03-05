@@ -2,3 +2,5 @@ Rusty
 Blue
 Scout
 Calico
+Dixie
+Ramsy
